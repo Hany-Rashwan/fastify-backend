@@ -1,0 +1,6 @@
+###             get all items
+GET  http://127.0.0.1:3000/items HTTP/1.1
+
+ 
+###             get item-by-id
+GET http://127.0.0.1:3000/items/2 HTTP/1.1
